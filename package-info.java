@@ -1,6 +1,6 @@
 /**
 * This program gets mass of object from the user's input,
-*   calculates and display energy of object in Joules and 
+*   calculates and display energy of object in Joules and
 *   its equivalent bomb in kiloton to the output.
 *
 * @author  Jay Lee
